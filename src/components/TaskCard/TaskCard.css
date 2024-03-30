@@ -1,0 +1,11 @@
+.arr-icon{
+    height: 30px;
+}   
+.del-icon{
+    height: 40px;
+    cursor: pointer;
+}
+.category-p{
+    right: 60px;
+    width: 100px;
+}
